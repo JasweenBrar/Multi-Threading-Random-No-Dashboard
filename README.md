@@ -1,4 +1,4 @@
-# Multi-Threading-Random-No_Dashboard
+# Multi-Threading-Random-No-Dashboard
 Display random numbers generated parallely by using multi-threading :)
 
 * Bulit with Python.
